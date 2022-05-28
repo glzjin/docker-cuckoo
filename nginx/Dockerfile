@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:stable
 
 MAINTAINER blacktop, https://github.com/blacktop
 
